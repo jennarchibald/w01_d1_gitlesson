@@ -1,4 +1,4 @@
 
 -pokemon
--yellow
--electric mouse
+-golden
+-electromagnetic
