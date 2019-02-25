@@ -1,4 +1,4 @@
 
 -pokemon
 -golden
--electromagnetic
+-electromagneticcd
